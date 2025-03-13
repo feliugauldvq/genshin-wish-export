@@ -2,7 +2,7 @@
 
 中文 | [English](https://github.com/biuuu/genshin-wish-export/blob/main/docs/README_EN.md)
 
-一个使用 Electron 制作的小工具，需要在 Windows 64位操作系统上运行。
+一个使用 Electron 制作的小工具，需要在 Windows 64位操作系统上运行。支持国际服和国服。
 
 通过读取游戏日志或者代理模式获取访问游戏祈愿记录 API 所需的 authKey，然后再使用获取到的 authKey 来读取游戏祈愿记录。
 
